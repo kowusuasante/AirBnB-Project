@@ -1,0 +1,2 @@
+## Project Description:
+The AirBnB SQL project aims to analyze and visualize AirBnB data using Power BI. The project involves creating SQL tables for weekday and weekend data files for different cities, loading the data into these tables, and then merging them into a single view. The merged view will include a column specifying whether each row is from a weekday or weekend file. This integrated dataset will be used for comprehensive analysis and visualization in Power BI.
